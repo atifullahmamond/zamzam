@@ -9,6 +9,7 @@ Route::get('/', function () {
 });
 
 
+
 Route::get('/backup', function () {
     // Database configuration
     $dbHost = env("DB_HOST");
