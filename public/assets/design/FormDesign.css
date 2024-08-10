@@ -1,0 +1,26 @@
+.tableForm td, .tableForm th{
+    border:1px solid black !important;
+    vertical-align: middle !important;
+    text-align: center;
+    padding: 0px !important;
+}
+
+.tableForm .nb {
+    border: hidden !important;
+}
+
+.tableForm .nb-l {
+    border-left: hidden !important;
+}
+
+.tableForm .nb-r {
+    border-right: hidden !important;
+}
+
+.tableForm .nb-t {
+    border-top: hidden !important;
+}
+
+.tableForm .nb-b {
+    border-bottom: hidden !important;
+}
